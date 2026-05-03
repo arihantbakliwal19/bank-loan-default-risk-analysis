@@ -44,9 +44,7 @@ It demonstrates an end-to-end data analysis workflow including data cleaning, SQ
 
 ## Dashboard Preview
 
-
-<img width="1171" height="714" alt="bank loan risk dashboard" src="https://github.com/user-attachments/assets/07a02f12-3a2a-4632-9d0b-a0a8e8095aae" />
-
+<img width="1170" height="650" alt="bank loan risk dashboard" src="https://github.com/user-attachments/assets/124c2ae3-7b83-4799-ba27-de9c2a99808b" />
 
 
 ## Author
