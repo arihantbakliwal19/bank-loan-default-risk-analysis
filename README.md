@@ -50,4 +50,5 @@ It demonstrates an end-to-end data analysis workflow including data cleaning, SQ
 ## Author
 
 Arihant Bakliwal
+
 Aspiring Data Analyst
