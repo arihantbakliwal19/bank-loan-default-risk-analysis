@@ -1,38 +1,55 @@
 # Bank Loan Default Risk Dashboard
 
-This project analyzes loan data to identify default risk patterns using Power BI.
+## Project Overview
 
-## Dashboard Overview
+This project analyzes bank loan data to identify default risk patterns using Python, MySQL, and Power BI.
+It demonstrates an end-to-end data analysis workflow including data cleaning, SQL querying, and interactive dashboard visualization.
 
-The dashboard provides insights into:
+## Tools & Technologies
 
-- Total number of loans
-- Total loan amount
-- Average interest rate
-- Default rate
-- Average loan amount
-- Loan distribution by status
-- Default rate by loan purpose
-- Loan amount by region
+* Python (Pandas, Data Cleaning)
+* MySQL (SQL Queries)
+* Power BI (Data Visualization & DAX)
+* Excel / CSV (Dataset)
 
-## Tools Used
+## Project Workflow
 
-- Power BI
-- DAX
-- Data Visualization
-- Data Cleaning
+1. Data Cleaning using Python
+2. Data Analysis using SQL
+3. Data Visualization using Power BI
+4. KPI and Dashboard Development
 
-## Key Features
+## Key KPIs
 
-- Interactive dashboard
-- KPI cards
-- Dynamic filtering using slicers
-- Business-focused insights
+* Total Loans
+* Total Loan Amount
+* Average Interest Rate
+* Default Rate
+* Average Loan Amount
 
-## Dataset
+## Dashboard Features
 
-Loan dataset containing borrower and loan information.
+* Loan Distribution: Default vs Non-Default
+* Loan Amount by Purpose
+* Default Rate by Purpose
+* Loan Amount by Region
+* Interactive Region Slicer
 
-## Screenshot
+## Files in Repository
 
-![Dashboard](screenshots/dashboard.png)
+* `data_cleaning.py` — Python script for data preprocessing
+* `loan_analysis_queries.sql` — SQL queries for loan analysis
+* `Bank Loan Default Risk Dashboard.pbix` — Power BI dashboard
+* `loan_default_cleaned.zip` — Cleaned dataset
+
+## Dashboard Preview
+
+
+<img width="1171" height="714" alt="bank loan risk dashboard" src="https://github.com/user-attachments/assets/07a02f12-3a2a-4632-9d0b-a0a8e8095aae" />
+
+
+
+## Author
+
+Arihant Bakliwal
+Aspiring Data Analyst
